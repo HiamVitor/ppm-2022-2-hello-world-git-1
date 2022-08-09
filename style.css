@@ -3,5 +3,6 @@ body{
 }
 
 p{
-    color:red;
+    color:pink;
+    font-family:'Courier New', Courier, monospace;
 }
